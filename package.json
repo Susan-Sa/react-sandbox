@@ -1,6 +1,6 @@
 {
   "name": "my-website",
-  "version": "0.1.0",
+  "version": "v1.22.19",
   "private": true,
   "scripts": {
     "dev": "open http://localhost:3001 && next dev -p 3001",
